@@ -1,5 +1,5 @@
 companyName;
-const companyName = "Scuber";
+const companyName = 'Scuber';
 
 mostProfitableNeighborhood;
 let mostProfitableNeighborhood = 'Chelsea'
